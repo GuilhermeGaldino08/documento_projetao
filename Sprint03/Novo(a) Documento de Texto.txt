@@ -1,0 +1,1 @@
+A solução foi escolhida por permitir que o registro de presença seja realizado de forma automática e integrada à rotina dos alunos, aproveitando o momento habitual de retirada ou devolução dos notebooks no carrinho, sem exigir esforço ou ações adicionais por parte dos alunos ou professores.
